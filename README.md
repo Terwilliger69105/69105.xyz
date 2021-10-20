@@ -1,4 +1,4 @@
-## 69105.xyz
+### 69105.xyz
 ---
 69105.xyz is my personal "project page" for everything that isn't a retro computer, all that stuff going over to pc98.tech
 
